@@ -1,0 +1,23 @@
+{
+  "name": "tail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoratf/Tail.git"
+  },
+  "keywords": [],
+  "author": "Igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igoratf/Tail/issues"
+  },
+  "homepage": "https://github.com/igoratf/Tail#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
